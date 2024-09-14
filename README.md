@@ -18,3 +18,4 @@ for the prosthesis to be attached.
   Not suitable for visually impaired individuals.
   Not suitable for individuals who have lost motor 
 skills on their arm and shoulder of the injured hand.
+Mechanical design - https://wikifactory.com/@lphsliyanamana/prosthetic-hand-with-wrist
